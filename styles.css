@@ -955,7 +955,7 @@
   @media (max-width: 425px) and (min-width:275px) {
 
     #actionButton {
-      width: 80%;
+      width: 90%;
       text-align: center;
       display: flex;
       justify-content: center;    
