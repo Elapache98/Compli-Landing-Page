@@ -397,7 +397,6 @@
       margin: 0 auto; 
       width:90vw;
       height: auto;
-      margin-bottom: 64px;
   }
 
   .stack {
@@ -740,7 +739,6 @@
 
       #conversion a {
         margin: auto;
-        margin-bottom: 8px;
         display: block;
         padding: 4px;
         border-radius: 4px;
