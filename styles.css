@@ -759,6 +759,15 @@
           
       }
 
+
+      #featureImage{
+        width: 100%;
+        height: 280px;
+        object-fit: cover;
+        object-position: center;
+        border-radius: 8px;
+        
+      }
     
       .show-menu #nav-links,
       .show-menu #conversion {
