@@ -900,7 +900,8 @@
           padding: 16px;
           margin-top:28px ;
           border-color: rgba(147, 159, 179, 0.25);
-      
+          margin-bottom:48px;
+       
         }
 
 
@@ -920,8 +921,8 @@
       margin-bottom: 64px;
       border-color: rgb(65, 84, 114,.15);
       height: 320px;
-      margin-top:56px;
-      margin-bottom: 56px;
+      margin-top:64px;
+      margin-bottom: 64px;
 
       
         }
