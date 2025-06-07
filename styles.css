@@ -914,7 +914,7 @@
       margin-left: auto;
       margin-right: auto;
       padding: 24px;
-      margin-bottom: 48px;
+      margin-bottom: 24px;
       margin-top: 36px;
       
       height:auto;
@@ -938,8 +938,8 @@
       margin-bottom: 64px;
       border-color: rgb(65, 84, 114,.15);
       height: 320px;
-      margin-top:96px;
-      margin-bottom: 96px;
+      margin-top:48px;
+      margin-bottom: 48px;
 
       
         }
