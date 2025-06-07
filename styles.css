@@ -873,7 +873,7 @@
           display: block;
           border-radius: 4px;
           margin-top: 8px;
-          margin-bottom: 68px;
+          margin-bottom: 64px;
 
       }
 
@@ -883,7 +883,7 @@
           margin: 0 auto; 
           width:100vw;
           height: auto;
-          margin-bottom: 8px;
+          padding-top:64px;
       }
 
       .stack_card {
@@ -920,6 +920,8 @@
       margin-bottom: 64px;
       border-color: rgb(65, 84, 114,.15);
       height: 320px;
+      margin-top:96px;
+      margin-bottom: 96px;
 
       
         }
