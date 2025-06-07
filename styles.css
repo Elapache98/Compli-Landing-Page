@@ -7,6 +7,11 @@
 
 
 
+
+ 
+
+
+
   h1 {
   color: #415472;
   font-size:48px;
@@ -14,6 +19,9 @@
   margin: auto;
   margin-bottom: 28px;
   line-height: 48px;
+  font-family: 'Platypi', cursive;
+  font-weight: 600;
+  font-style: normal;
   }
 
   h2{
@@ -24,16 +32,22 @@
       margin: auto;
       margin-bottom: 32px;
       line-height: 32px;
+      font-family: 'Platypi', cursive;
+      font-weight: 600;
+      font-style: normal;
       
   }
 
   h3{
       color:#5d5db1;
-          font-size:18px; 
+          font-size:20px; 
           font-weight: 700;
         margin: auto;
         margin-top: 8px;
         margin-bottom: 8px;
+        font-family: 'Platypi', cursive;
+        font-weight: 600;
+        font-style: normal;
   }
 
 
@@ -44,6 +58,9 @@
       margin: auto;
       margin-top: 8px;
       margin-bottom: 8px;
+      font-family: 'Platypi', cursive;
+      font-weight: 600;
+      font-style: normal;
   }
 
 
@@ -852,7 +869,7 @@
           display: block;
           border-radius: 4px;
           margin-top: 8px;
-          margin-bottom: 80px;
+          margin-bottom: 68px;
 
       }
 
